@@ -18,7 +18,18 @@
 ⚡I am Cool 😎
 <br />
 - ⚡ Fun fact **I am a Coder**
-
+<h3 align="left">Support:</h3>
+<p>
+  <a href="https://ko-fi.com/ko-fi.com/darkshadow4874">
+    <img
+      align="left"
+      src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
+      height="50"
+      width="210"
+      alt="ko-fi.com/darkshadow4874"
+  /></a>
+</p>
+<br /><br />
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 
