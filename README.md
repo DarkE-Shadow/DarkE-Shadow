@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm M.Muneeb</h1>
+<h1 align="center">Hi 👋, I'm Dark Shadow</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan.</h3>
 <img
   src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif"
@@ -7,13 +7,13 @@
   width="400px"
   align="right"
 />
-💫 About Me: 🔭 I’m currently working on JavaScript
+💫 About Me: 🔭 I’m currently working a project.
 <br />
-🤝 I’m looking for help !
+🤝 I’m looking for help!
 <br />
-🌱 I’m currently learningJavaScript
+🌱 I’m currently learning Github.
 <br />
-💬 Ask me about: Html, Css and other Programming languages
+💬 Ask me about: Html, Css and other Programming languages.
 <br />
 ⚡I am Cool 😎
 <br />
