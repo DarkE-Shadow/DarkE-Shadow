@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I am a Coder**
 <h3 align="left">Support:</h3>
 <p>
-  <a href="https://ko-fi.com/ko-fi.com/darkshadow4874">
+  <a href="https://ko-fi.com/darkshadow4874">
     <img
       align="left"
       src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
